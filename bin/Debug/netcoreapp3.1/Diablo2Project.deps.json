@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Diablo2Project/1.0.0": {
+        "runtime": {
+          "Diablo2Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diablo2Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
