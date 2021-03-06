@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleDiablo.Data/1.0.0": {
+        "dependencies": {
+          "ConsoleDiablo.DataModels": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleDiablo.Data.dll": {}
+        }
+      },
+      "ConsoleDiablo.DataModels/1.0.0": {
+        "runtime": {
+          "ConsoleDiablo.DataModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleDiablo.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleDiablo.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
